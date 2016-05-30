@@ -1,0 +1,34 @@
+{
+  "name": "less-plugin-html",
+  "version": "1.0.0",
+  "description": "Lint LESS within HTML Style tags",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "less": "2.x"
+  },
+  "author": "Marcus Zanona <zanona@me.com>",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zanona/less-plugin-html.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zanona/less-plugin-html/issues"
+  },
+  "homepage": "https://github.com/zanona/less-plugin-html#readme",
+  "keywords": [
+    "less",
+    "html",
+    "plugin",
+    "lint",
+    "linter",
+    "style",
+    "tags",
+    "inline"
+  ]
+}
