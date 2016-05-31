@@ -1,6 +1,6 @@
 {
   "name": "less-plugin-html",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "preferGlobal": true,
   "description": "Parse LESS in HTML <style> tags",
   "main": "index.js",
