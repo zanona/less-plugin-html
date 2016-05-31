@@ -7,9 +7,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "peerDependencies": {
-    "less": "2.x"
-  },
   "author": "Marcus Zanona <zanona@me.com>",
   "license": "ISC",
   "dependencies": {},
