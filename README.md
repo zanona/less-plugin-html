@@ -1,7 +1,7 @@
 LESS HTML Plugin
 ===
 
-Lint HTML files containing less `<style type=text/less>` tags.
+Parse LESS on HTML files containing `<style type=text/less>` tags.
 
 Example:
 
@@ -22,8 +22,8 @@ Example:
 
 You now should get a warning about the missing parenthesis on line 6.
 
-**Note:** the attribute `type=text/less` is necessary in order to validate the
-script correctly.
+**Note:** the attribute `type=text/less` is necessary to correctly parse the
+tag contents.
 
 ## Installation
 

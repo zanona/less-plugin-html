@@ -1,7 +1,8 @@
 {
   "name": "less-plugin-html",
   "version": "1.0.0",
-  "description": "Lint LESS within HTML Style tags",
+  "preferGlobal": true,
+  "description": "Parse LESS in HTML <style> tags",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
